@@ -11,3 +11,16 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@font-face{
+  font-family: 'Carlito';
+
+  src: url('./fonts/Carlito/Carlito-Bold.ttf') format('truetype'),
+  url('./fonts/Carlito/Carlito-BoldItalic.ttf') format('truetype'),
+  url('./fonts/Carlito/Carlito-Italic.ttf') format('truetype'),
+  url('./fonts/Carlito/Carlito-Regular.ttf') format('truetype');
+
+  font-weight: 700;
+
+  font-style: normal;
+}
